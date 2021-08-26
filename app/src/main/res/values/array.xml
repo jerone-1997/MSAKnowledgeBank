@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "MSA_Elements">
+        <item>1.1 Locking/Fastening Devices</item>
+        <item>1.2 Leak Control</item>
+        <item>1.3 Pipeline Handling</item>
+        <item>1.4 Aircraft/Component Protection</item>
+        <item>2.1 Cable Control</item>
+        <item>2.2 Wheel/Brakes/Tire</item>
+        <item>2.3 Compressor/Turbine</item>
+        <item>2.4 Fuel System</item>
+        <item>2.5 Arresters Systems</item>
+        <item>3.1 Wire Repair</item>
+        <item>3.2 Wire Security/Mounting</item>
+        <item>3.3 Connectors</item>
+        <item>3.4 Electrical Measurement</item>
+        <item>4.1 Explosive Safety</item>
+        <item>4.2 Explosive Store House</item>
+        <item>4.3 General Weapons</item>
+        <item>5.1 Airframe</item>
+        <item>5.2 Engine</item>
+        <item>5.3 Avionics</item>
+        <item>6.1 Wrenches</item>
+        <item>6.2 Handles/Adapters</item>
+        <item>6.3 Measuring Tools</item>
+        <item>6.4 Pliers</item>
+        <item>6.5 Miscellaneous Tools</item>
+        <item>7.1 Avionics Testers</item>
+        <item>7.2 Wire Repair Tools</item>
+    </string-array>
+    <string-array name = "MSA_Element_1_1">
+        <item>1. Safety Wire-Lock</item>
+        <item>2. Cotter Pins</item>
+        <item>3. Securing Nuts</item>
+        <item>4. Bolts</item>
+        <item>5. Screws</item>
+        <item>6. Washers</item>
+        <item>7. Torque Loading</item>
+    </string-array>
+
+    <string-array name = "MSA_Element_1_2">
+        <item>1. O Ring</item>
+        <item>2. Gasket</item>
+        <item>3. Sealant</item>
+    </string-array>
+
+    <string-array name="MSA_Element_1_3">
+        <item>1. Rigid and Flexible Hoses</item>
+        <item>2. Blanking</item>
+        <item>3. Quick Release Coupling</item>
+    </string-array>
+
+    <string-array name="MSA_Element_1_4">
+        <item>1. General Bonding and Grounding</item>
+        <item>2. Electrostatic Sensitive Devices</item>
+        <item>3. Corrosion - Types and Control</item>
+        <item>4. Lubrication</item>
+    </string-array>
+
+    <string-array name="MSA_Element_2_1">
+        <item>1. Turnbuckle</item>
+        <item>2. Cable</item>
+        <item>3. Pulley</item>
+        <item>4. Cable Tension</item>
+    </string-array>
+
+    <string-array name="MSA_Element_2_2">
+        <item>1. Tire Pressure Check</item>
+        <item>2. Hot Brakes Handling</item>
+        <item>3. Tire Inspection</item>
+        <item>4. Tire Change</item>
+    </string-array>
+
+    <string-array name="MSA_Element_2_3">
+        <item>1. Blades Wear/Damage Identification</item>
+        <item>2. Spectrometric Oil Analysis Program (SOAP) Sampling</item>
+        <item>3. Propeller Blade Inspection</item>
+    </string-array>
+
+    <string-array name="MSA_Element_2_4">
+        <item>1. Fuel Sampling</item>
+        <item>2. Fuel Contamination</item>
+        <item>3. Fuel Leak Classification</item>
+        <item>4. Fuel lines and Fittings</item>
+    </string-array>
+
+    <string-array name="MSA_Element_2_5">
+        <item>1. Barrier System</item>
+        <item>2. Hook Wire System</item>
+    </string-array>
+
+    <string-array name = "MSA_Element_3_1">
+        <item>1. Wire Stripping</item>
+        <item>2. Wire Crimping</item>
+        <item>3. Wire Braiding/Harness Repair</item>
+        <item>4. Wire Insulation Repair</item>
+        <item>5. General Soldering</item>
+    </string-array>
+
+    <string-array name = "MSA_Element_3_2">
+        <item>1. Wire Routing</item>
+        <item>2. Chafing Protection</item>
+        <item>3. Cable Clamping</item>
+        <item>4. Wire and Cable Tying/Lacing</item>
+    </string-array>
+
+    <string-array name = "MSA_Element_3_3">
+        <item>1. Moisture Control and Removal</item>
+        <item>2. Pin Straightening and Alignment</item>
+        <item>3. Multiple Pin Connector Repair</item>
+        <item>4. Connector Inspection</item>
+        <item>5. Blanking of Connectors</item>
+        <item>6. Semi-Rigid Coaxial SMA Connectors</item>
+        <item>7. Optical System</item>
+    </string-array>
+
+    <string-array name = "MSA_Element_3_4">
+        <item>1. Voltage Check</item>
+        <item>2. Current Check</item>
+        <item>3. Frequency Check</item>
+        <item>4. Continuity Resistance Check</item>
+        <item>5. Insulation Resistance Check</item>
+        <item>6. Bonding Resistance Check</item>
+    </string-array>
+
+    <string-array name = "MSA_Element_4_1">
+        <item>1. High and Low Explosive</item>
+        <item>2. Classification and Compability</item>
+        <item>3. Quality Distance</item>
+        <item>4. Explosive Train</item>
+        <item>5. Explosive Regulation</item>
+        <item>6. General Knowledge - Aircraft Munitions</item>
+        <item>7. General Munitions - Safety Requirements</item>
+    </string-array>
+
+    <string-array name = "MSA_Element_4_2">
+        <item>1. Raising Licence - F1443 Danger Building Licence</item>
+        <item>2. Danger Building Inspections</item>
+    </string-array>
+
+    <string-array name = "MSA_Element_4_3">
+        <item>1. Flare and Chaff</item>
+        <item>2. 20/30 mm Rounds</item>
+        <item>3. Impulse Catridge</item>
+        <item>4. Missile</item>
+        <item>5. Practice Bombs</item>
+        <item>6. Flare and Chaff Fuzing</item>
+        <item>7. F-16 Crew Escape System</item>
+    </string-array>
+
+    <string-array name = "MSA_Element_5_1">
+        <item>1. Weight and Balance</item>
+        <item>2. Wheel, Brakes and Tyres</item>
+        <item>3. Hydraulic System</item>
+        <item>4. Hydraulic Symbols</item>
+        <item>5. Pneumatic Systems</item>
+    </string-array>
+
+    <string-array name="MSA_Element_5_2">
+        <item>1. Compressor Blade Inspection</item>
+        <item>2. Marking Materials for Hot Sections</item>
+        <item>3. Blending and Replacement</item>
+        <item>4. Turbine Blade Inspection</item>
+        <item>5. Engine Inspection Process</item>
+        <item>6. Terms &amp; Definitions of Defects</item>
+        <item>7. Inspection and Cleaning</item>
+    </string-array>
+
+    <string-array name="MSA_Element_5_3">
+        <item>1. Bonding and Grounding</item>
+        <item>2. Pitot Static System</item>
+        <item>3. Electrical and Electronics Symbols</item>
+    </string-array>
+
+    <string-array name="MSA_Element_6_1">
+        <item>1. Open End Wrench</item>
+        <item>2. Box Wrench</item>
+        <item>3. Combination Wrench/Spanner</item>
+        <item>4. Flare Nut Wrench</item>
+        <item>5. Crowfoot Wrench</item>
+        <item>6. Hex Wrench</item>
+        <item>7. Torque Wrench</item>
+    </string-array>
+
+    <string-array name="MSA_Element_6_2">
+        <item>1. Ratchet Handles</item>
+        <item>2. Sliding T-bar Handle</item>
+        <item>3. Speed Handles</item>
+        <item>4. Breaker Bar</item>
+        <item>5. Hinge Handles</item>
+    </string-array>
+
+    <string-array name="MSA_Element_6_3">
+        <item>1. Dial Indicator</item>
+        <item>2. Micrometer</item>
+        <item>3. Vernier Calipers</item>
+        <item>4. Feeler Gauge</item>
+        <item>5. Torques-meter</item>
+    </string-array>
+
+    <string-array name="MSA_Element_6_4">
+        <item>1. Slip-joint Combination Pliers</item>
+        <item>2. Diagonal Cutting Pliers</item>
+        <item>3. Parallel Jaw Pliers</item>
+        <item>4. Flat Nose Pliers</item>
+        <item>5. Round Nose Pliers</item>
+        <item>6. End Cutting Pliers</item>
+        <item>7. Soft Jaw Pliers</item>
+        <item>8. Wire Locking Pliers</item>
+    </string-array>
+
+    <string-array name="MSA_Element_6_5">
+        <item>1. Hand Shear - tin snips</item>
+        <item>2. Screw Extractor Bar</item>
+        <item>3. Screwdriver</item>
+        <item>4. Hammer</item>
+        <item>5. Mallet</item>
+        <item>6. Allen Key</item>
+        <item>7. Tie-Wrap Gun</item>
+        <item>8. Impact Drivers</item>
+    </string-array>
+
+    <string-array name="MSA_Element_7_1">
+        <item>1. Ammeter</item>
+        <item>2. Voltmeter</item>
+        <item>3. Ohmmeter</item>
+        <item>4. Multimeter</item>
+        <item>5. Power Wattmeter</item>
+        <item>6. Oscilloscope</item>
+        <item>7. Directional Couplers</item>
+        <item>8. Attenuators</item>
+        <item>9. Spectrum Analyser</item>
+        <item>10. Function Generator</item>
+        <item>11. Video Signal Generator</item>
+        <item>12. Pitot Static Tester</item>
+        <item>13. Power Meter and Power Sensor</item>
+        <item>14. Frequency Meter</item>
+    </string-array>
+
+    <string-array name="MSA_Element_7_2">
+        <item>1. Soldering Tools</item>
+        <item>2. Crimping Tools</item>
+        <item>3. Wire Stripping Tools</item>
+    </string-array>
+
+</resources>

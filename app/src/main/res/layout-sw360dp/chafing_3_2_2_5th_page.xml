@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp">
+
+    <SeekBar
+        android:id="@+id/seekMovePages"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="5dp"
+        android:thumbTint="@color/colorPrimary" />
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/seekMovePages"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/ios_bold"
+        android:text="3.2.2 Chafing Protection"
+        android:textColor="#0080FF"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/txtTitle"
+        android:fontFamily="@font/ios_bold"
+        android:text="[Next]"
+        android:textColor="#0080FF"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtPrevious"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/txtTitle"
+        android:fontFamily="@font/ios_bold"
+        android:text="[Previous]"
+        android:textColor="#0080FF"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txtTitle"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:fontFamily="@font/ios_bold"
+        android:textColor="#0080FF"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="75dp"
+        android:text="@string/chafing_5th_page"
+        android:textColor="#0080FF"
+        android:textSize="12.5sp" />
+
+    <TextView
+        android:id="@+id/txtHyperLink1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtContent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:autoLink="web"
+        android:clickable="true"
+        android:fontFamily="@font/ios_bold"
+        android:gravity="center"
+        android:textColor="#0080FF"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtHyperLink2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtHyperLink1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:autoLink="web"
+        android:clickable="true"
+        android:fontFamily="@font/ios_bold"
+        android:gravity="center"
+        android:textColor="#0080FF"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtElement"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="5dp"
+        android:gravity="right|center"
+        android:text="3.2 Wire Security/Mounting             5/6"
+        android:textColor="@color/colorPrimary"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true">
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/btnBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|start"
+            android:layout_margin="@dimen/fab_margin"
+            android:src="@drawable/back"
+            app:backgroundTint="#FF0000"/>
+    </android.support.design.widget.CoordinatorLayout>
+</RelativeLayout>

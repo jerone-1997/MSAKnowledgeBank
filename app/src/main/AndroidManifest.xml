@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.swiftoffice.msaknowledgebank">
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <application
+        android:allowBackup="true"
+        tools:replace="android:icon"
+        android:icon="@mipmap/msa_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/msa_logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:largeHeap="true">
+        <activity android:name=".MainPage"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ContentsPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Wirelock1_1_1" android:screenOrientation="portrait"/>
+        <activity android:name=".Cotter1_1_2_1stPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Cotter1_1_2_2ndPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Cotter1_1_2_3rdPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Nuts1_1_3_1stPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Nuts1_1_3_2ndPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Nuts1_1_3_3rdPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Nuts1_1_3_4thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Nuts1_1_3_5thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Bolts1_1_4" android:screenOrientation="portrait"/>
+        <activity android:name=".Screws1_1_5" android:screenOrientation="portrait"/>
+        <activity android:name=".Washers1_1_6_1stPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Washers1_1_6_2ndPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Torque1_1_7_1stPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Torque1_1_7_2ndPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Sealant1_2_3_1stPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Sealant1_2_3_2ndPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Sealant1_2_3_3rdPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Sealant1_2_3_4thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Sealant1_2_3_5thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".BondingGrounding1_4_1_1stPage" android:screenOrientation="portrait"/>
+        <activity android:name=".BondingGrounding1_4_1_2ndPage" android:screenOrientation="portrait"/>
+        <activity android:name=".ESD1_4_2_1stPage" android:screenOrientation="portrait"/>
+        <activity android:name=".WireStripping3_1_1_1stPage" android:screenOrientation="portrait"/>
+        <activity android:name=".WireStripping3_1_1_2ndPage" android:screenOrientation="portrait"/>
+        <activity android:name=".WireStripping3_1_1_3rdPage" android:screenOrientation="portrait"/>
+        <activity android:name=".WireStripping3_1_1_4thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".WireCrimping3_1_2" android:screenOrientation="portrait"/>
+        <activity android:name=".WireBraidingOrHarness3_1_3_1stPage" android:screenOrientation="portrait"/>
+        <activity android:name=".WireBraidingOrHarness3_1_3_2ndPage" android:screenOrientation="portrait"/>
+        <activity android:name=".WireBraidingOrHarness3_1_3_3rdPage" android:screenOrientation="portrait"/>
+        <activity android:name=".WireInsulationRepair3_1_4_1stPage" android:screenOrientation="portrait"/>
+        <activity android:name=".WireInsulationRepair3_1_4_2ndPage" android:screenOrientation="portrait"/>
+        <activity android:name=".WireInsulationRepair3_1_4_3rdPage" android:screenOrientation="portrait"/>
+        <activity android:name=".WireInsulationRepair3_1_4_4thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".WireInsulationRepair3_1_4_5thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".GeneralSoldering3_1_5_1stPage" android:screenOrientation="portrait"/>
+        <activity android:name=".GeneralSoldering3_1_5_2ndPage" android:screenOrientation="portrait"/>
+        <activity android:name=".GeneralSoldering3_1_5_3rdPage" android:screenOrientation="portrait"/>
+        <activity android:name=".GeneralSoldering3_1_5_4thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".GeneralSoldering3_1_5_5thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".GeneralSoldering3_1_5_6thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".GeneralSoldering3_1_5_7thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".GeneralSoldering3_1_5_8thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".GeneralSoldering3_1_5_9thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".GeneralSoldering3_1_5_10thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".GeneralSoldering3_1_5_11thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Chafing3_2_2_1stPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Chafing3_2_2_2ndPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Chafing3_2_2_3rdPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Chafing3_2_2_4thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Chafing3_2_2_5thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Chafing3_2_2_6thPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Clamping3_2_3_1stPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Clamping3_2_3_2ndPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Clamping3_2_3_3rdPage" android:screenOrientation="portrait"/>
+        <activity android:name=".Blanking3_3_5" android:screenOrientation="portrait"/>
+    </application>
+</manifest>

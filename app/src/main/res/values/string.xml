@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="coming_soon">Coming soon</string>
+    <string name="wire_lock">"- Safety wire must be new.
+        \n- When castellated nuts are to be used, tightened the nuts to the low side of the selected torque range unless otherwise stated.
+        \n- All safety wires must be tight after installation, but not under such tension that normal handling or vibration will break the wire.
+        \n- Twists should be tight and even, and the wire between the nuts as taut as possible without over twisting.
+        \n- Safety wire should always be installed and twisted so that the loop around the heads stay down and does not tend to come up over the bolt head, causing slacks.</string>
+    <string name="cotter_pin_1st_page">"- Used to secure items such as bolts, screws, pins &amp; shafts.
+        \n- Used at any locations where turning or actuating movement takes place.
+        \n- Diameter of cotter pin selected for any application should be the largest size that fits into cotter pin hole and/or slots in the castellated nut.
+        \n- <b>Never</b> be re-used on aircraft.</string>
+    <string name="cotter_pin_2nd_page">"- The following general rules apply to the usage of cotter pins:
+        \n1. The prong bent over the bolt end should not extend beyond the bolt diameter. (Cut off if necessary)
+        \n2. The prong bent down should not rest against the surface of the washer. (Cut off if necessary)
+        \n3. If the optional wraparound method is used, the prongs should not extend outward from the sides of the nut.
+        \n4. All prongs should be bent over a reasonable radius. Sharp angled bends invite breakage. Tapping lightly with a mallet is the best method of bending the prongs.</string>
+    <string name="cotter_pin_3rd_page">"- When tightening castellated nuts on bolts, the cotter pin holes may not line up with the slots in the nuts for the range of recommended values.
+        \n- Except in cases of highly stressed engine parts, the nut may not be subject to over-torque. Remove hardware and realign the holes.
+        \n- The torque loads specified may be used for all unlubricated cadmium-plated steel nuts of the fine/coarse thread series, which have approx. equal number of threads and equal face bearing areas. These do not apply where special torque requirements are specified in the manual.
+        \n- If the head end, instead of nut must be turned during tightening, max torque values may be increased by amount = shank friction, provided latter is first measured by torque wrench."</string>
+    <string name="nuts_1st_page">- Used on aircraft to provide tight connections which will not shake loose under serve vibration. However, they are not to be used on joints where the nuts/ bolts are subjected to rotation."
+        \n- Used in applications where they are not removed often.
+        \n- 2 types of self-locking nuts are in usage: Metal &amp; Fiber/Nylon insert.
+        \n- The finish/plating colour of the nut identifies the type of application and environment in which it can be used. Eg: Cadmium-plated nut (Gold colour): Well-protected against corrosion, cannot use for environment where temperature > 450°F (232°C).
+        \n- Repeated removal and installation loses self-locking feature. Replace when no longer capable of maintaining minimum prevailing torque.
+        \n- Self-locking nuts work from what is called a nylok. It forms itself around the screw threads and prevents it from loosening up, e.g MS20365.</string>
+    <string name="nuts_2nd_page">- The bolt’s threads do not actually cut into the insert, but rather forces its way into the resilient material."
+        \n- Reusable as long as there is enough friction between the nut and the bolt require the use of a wrench to remove.
+        \n- A tap must never be run through a self-locking nut to make it easier to screw into the bolt as this will destroy the locking ability of the nut.
+        \n- Nuts must be screwed down into the bolt unit at least all the chamfer on the end of the bolt protrudes through the nut.
+        \n- If the bolt is not chamfered, at least one thread should protrude through the nut (but not too much as it may under torque the assembly).
+        \n- It too many threads are exposed, check if the bolt is used of a correct length, or install washer to take up the length.</string>
+    <string name="nuts_3rd_page">"- Castle Nut is used with drilled shank hex head bolts, clevis bolts, drilled head bolts, or studs that are subjected to tension loads.
+        \n- The nut has slots or castellation cuts to accommodate a cotter pin/safety wire for safety-ing.
+        \n- Castellated shear nut is designed for use <b>with hardware subjected to </b>shear stress only.</string>
+    <string name="nuts_4th_page">"- Floating anchor are normally used to make installation easier.
+        \n- The floating anchor nut fits into a small bracket which is riveted to the aircraft skin.
+        \n- The nut is free to move, which makes it much easier to align it with the screw.
+        \n- For ease of production, sometimes ganged anchor nuts are used for inspection panels.
+        \n- Ganged anchor nuts allow the nuts to float in a channel, making alignment with the screw easy.</string>
+    <string name="nuts_5th_page">"- Or Self-locking Gang Channel Nuts, is a roll of anchor nut supported by the metal strip held by C clip.
+        \n- The anchor nut is floating and shall not be &lt; 0.3 inches nor &gt; 0.4 inches longitudinally, and not &lt; 0.1 inches nor &gt; 0.3 inches laterally from centered position.
+        \n- Nut element shall be capable of engagement with a bolt in the maximum misalignment position. The assembly shall provide a bearing surface for the nut element within the housing.
+        \n- The centre line of the channel shall not deviate from a straight line by &gt; 0.15 inches in any 12 inches. The nut element and base portion of the assembly shall form one integral unit.</string>
+    <string name="bolts">"- Used where great strength is required.
+        \n- Bolt length should be chosen such that the grip length is the same thickness of materials being joined.
+        \n- Installed in exactly the way the aircraft or engine maintenance manual specifies.
+        \n- If there is no information of this nature, bolts should be installed with the head upwards, forward or inboard which normally aids in preventing the bolt from falling out if the nuts are not secured.</string>
+    <string name="screws">"- Differs from a bolt as they have a slot/recess in the head so they can be turned with a screwdriver rather than a wrench, and their threads extend all the way to the head.
+        \n- Used where strength is not the deciding factor.</string>
+    <string name="washers_1st_page"><b>1. Tab Washer:</b>
+        \n- Round shaped lock washer with tabs and notches.
+        \n- Effectively lock parts into place in environments with extreme heat conditions or heavy vibrations.
+        \n- Should never be reused and must be firmly secured onto the bolts/nuts."
+        "\n<b>2. Lock Washer:</b>
+        \n- Used with bolts and machine screws whenever a self-locking nut or castellated nut is not applicable.
+        \n- May be the split washer spring type, or a multi-serrated internal or external star washer.
+        \n- Should never be used under the following:
+        \n* With fasteners to primary or secondary structures &amp; on any part of the aircraft where failure might result in severe consequences.
+        \n* Where failure would permit the opening of a joint to the airflow.
+        \n* In environments that the washers are subjected to corrosion.
+        \n* Where the washer will be placed against a soft material without a plain washer underneath it to prevent gouging of the surface.</string>
+    <string name="washers_2nd_page"><b>3. Shakeproof Lock Washer:</b>
+        \n- Round washers designed with tabs/lips that are bent upward across sides of a hex nut/bolt to lock the nut in place.
+        \n- To secure the lock washer to prevent it from turning, an external tab is bent downward 90° into a small hole in the face of the unit.
+        \n- Withstand higher heat than normal lock washers and can also be used in areas where high vibration happens.
+        \n- Used only <b>once</b> because the tabs tend to break when bent a second time."
+        "\n<b>4. Plain Washers:</b>
+        \n- AN960 and AN970 can be used as the smooth bearing surface, act as a shim in obtaining a correct grip length for a bolt and nut assembly.
+        \n- Used to adjust the position of castellated nuts to prevent damage to surface material.
+        \n- Common practice to use cadmium plated steel washer under a nut bearing directly against a structure to resist the cutting action of a nut.
+        \n- The AN970 steel washer provides a greater bearing area than the AN960 washer. AN970 washer is used on wooden structures under both the head and the nut of a blot to prevent crushing the surface.</string>
+    <string name="torque_1st_page">(1) Be sure that the torque applied is for the size of the bolt shank and not the wrench size
+        \na. Calibrate the torque wrench at least once a year/immediately after it has been abused or dropped to ensure continued accuracy.
+        \nb. Be sure that the threads of the bolt and nut are clean and dry, unless specified by the manufacturer.
+        \nc. Run the nut down to near contact with the washer/bearing surface and check friction drag torque required to turn the nut. Apply the torque to the nut and not the bolt, reduces rotation of the bolt in the hole and wear.
+        \nd. Add the friction drag torque to the desired torque (final torque).
+        \ne. Apply a smooth even pull when applying torque pressure. If chattering/jerking motion occurs during final torque, back-off the nut and re-torque."</string>
+    <string name="torque_2nd_page">"(2) Many applications of the bolts in aircraft/engine require stretch checks prior to reuse due primarily to bolt stretching caused by over torque."
+        \na. When installing a castle nut, start alignment with the cotter pin hole at the minimum recommended torque + friction drag torque, do not exceed."
+        \n(3) If the hole and nut castellation do not align, change washer/nut and try again. Exceeding maximum torque value is not recommended."
+        \na. When torque is applied to bolt heads/cap screws, apply recommended torque + friction drag torque.
+        \nb. If special adapters which changes effective length of the torque wrench are used, final torque indication/wrench setting must adjust accordingly based on formula.</string>
+    <string name="sealant_1st_page">"- Used to contain fuel, maintain cabin pressure, reduce fire hazards, exclude moisture, prevent corrosion and fill gaps and smooth discontinuities on the aircraft exterior.
+        \n- Sealing affects performance (quality &amp; reliability) of the aircraft eg: fuel tank sealing is critical because fuel leakage is a safety item that results in grounding of the aircraft until problem is rectified.
+        \n- Sealing for corrosion prevention must be done properly or in-service problems requiring extensive maintenance may occur.</string>
+    <string name="sealant_2nd_page"><b>(1) Definition of sealing</b>
+        \n- Process that confines liquids and gases within a given area/prevents them from entering areas from which they must be excluded
+        \n- Accomplished by closing all structural passages that these fluids can penetrate by wet, flowable paste.
+        \n- After a period of time, the sealant "cures" to form a rubbery solid that adheres firmly to the surface it contacts.
+        \n- Level of sealing required for any given area defined by applicable construction and assembly drawings dictated by engineering considerations.
+        \n- 4 Levels of sealing:
+        \n* Absolute (most demanding requirements)
+        \n* Extensive
+        \n* Intermediate
+        \n* Limited (least demanding requirements)"
+        "\n<b>(2) Procedure</b>
+        \n- Ensure surface is clean before applying sealant.
+        \n- The proportion of accelerator and adhesive used should be in accordance to manufacture specifications.
+        \n- Finish surface should be smooth.</string>
+    <string name="sealant_3rd_page">- Most sealants consist of 2 or more ingredients properly proportioned and compounded to obtain best results. Some materials are ready for use as packaged, but others require mixing before application."
+        "\n(i)<b><u>One-Part Sealants</u></b>
+        \n* Prepared by manufacturer and ready for use as packaged
+        \n* Consistency of some of these compounds may be altered to satisfy a particular method of application
+        \n* If thinning is desired, use thinner recommended by sealant manufacturer."
+        "\n(ii)<b><u>Two-Part Sealants</u></b>
+        \n* Compounds requiring separate packaging to prevent cure prior to application, identified as base sealing compounds &amp; accelerator
+        \n* Any alteration of prescribed ratios will reduce quality of the material
+        \n* Mixed by combining equal portions (by weight) of base compound &amp; accelerator.</string>
+    <string name="sealant_4th_page">"- All sealant material should be carefully weighed by balance scale in accordance with the sealant manufacturer's recommendations.
+        \n- Before weighing the sealant materials, thoroughly mix both the base sealant compound and the accelerator. Do not use accelerator that is dried out, lumpy or flaky.
+        \n- Pre-weighed sealant kits do not require weighing of the sealant and accelerator before mixing when the entire quantity is to be mixed.
+        \n- After determining the proper amount of base compound and accelerator to be used, add the accelerator to the base sealant compound, then mixing thoroughly by stirring or folding depending on the consistency of the material.
+        \n- Carefully mix to prevent entrapment of air in the mixture
+        \n- <b>WARNING:</b> Overly rapid or prolonged stirring will build up heat in the mixture, shortening the working life of mixing sealant.</string>
+    <string name="sealant_5th_page">"- To ensure a well-mixed compound, test by smearing a small portion of the mixture in a clean, flat metal or glass surface. If flecks/lumps found, continue mixing. If they cannot be eliminated, reject batch.
+        \n- Working life is from 1/2 hour to 4 hours (depends on class of sealant); hence apply mixed sealant as soon as possible or store in refrigerated storage.
+        \n- Curing rate of mixed sealants varies with temperature and humidity. Curing will be extremely slow if temperature &lt; 60°F (15.6°C). Ideal cure condition is at 77°F (25°C) with 50% relative humidity.
+        \n- Higher the temperature, curing may be accelerated, however temperature must not exceed 120°F (49.7°C) at any time during curing cycle.
+        \n- Heat may be applied by using infrared lamps or heated air. If heated air is used, it must be properly filtered to remove moisture and dirt.
+        \n- Heat should not be applied to any faying surface sealant installation until all work is completed. all faying surface applications must have all attachments, permanent or temporary, completed within the application limitations of the sealant.
+        \n- Sealant must be cured to a tack-free (point at which a sheet of cellophane pressed onto the sealant will no longer adhere) condition before applying brush-top coatings</string>
+    <string name="bonding_grounding_1st_page">"- Inadequate bonding/grounding can lead to unreliable operation of systems, EMI, electrostatic discharge damage to sensitive electronics, personnel shock hazard or damage from lightning strike.
+        \n- <b>Grounding:</b> Process of electrically connecting conductive objects to either a conductive structure or some other conductive return path for the purpose of safely completing either normal/fault circuit.
+        \n- <b>Bonding:</b> Process of electrical connecting 2 or more conducting objects not otherwise adequately connected.</string>
+    <string name="bonding_grounding_2nd_page"><b>(1) Bonding Jumper Installation</b>
+        \n- Bonding jumpers should be <b>made as short as practicable, installed in such a manner that resistance of each connection does not exceed .003 ohm.</b>
+        \n- <b>Should not interfere</b> with the operation of movable aircraft elements, nor should normal movement of these elements result in damage to the jumper."
+        "\n<b>(2) Bonding Connections</b>
+        \n- To ensure low-resistance connection, non-conducting finishes such as <b><i>paint and anodizing films should be removed from the attachment surface</i></b> to be contacted by the bonding terminal.
+        \n- Electrical wiring <b><i>should not be grounded directly to magnesium parts.</i></b></string>
+    <string name="esd_1st_page"></string>
+    <string name="wire_stripping_1st_page">"1. Determine the proper length of insulation to be removed. Wire must be visible inspection hole. Insulation must be 1/64 inches - 1/32 inches from end of contact/inside of insulation cup.
+        \n2. Insert wire into the exact center of correct slow for wire size to be stripped. Each slot is marked with wire size.
+        \n3. Close handles together as close as possible.
+        \n4. To prevent birdcaging the wire, partially open handles to allow grips to open, then remove wire before allowing handles to fully open.
+        \n5. Release handles, allowing wire holder to return to open position.
+        \n6. Remove stripped wire.
+        \n7. After stripping, strands of wire should be twisted firmly together in the same direction as the normal lay of the wire.
+        \n8. Stripped wire with nicked/cut strands is not acceptable.</string>
+    <string name="wire_stripping_2nd_page">(1) Visually inspect the wire and determine if any of the following conditions exist:
+        \na. Nicked/cut strands (see table)
+        \nb. Frayed/inter-tape insulation exposure
+        \nc. Broken wire strands (see table)
+        \nd. Un-stranded, splayed or BIrd Cage strands
+        \ne. Exposed conductor length shall be in accordance with TO1-1A-14 WP 013 00 and/or 014 00 (as per application)"
+        \n(2) When the above conditions exists and are within limits, correct and reshape conductor strands by twisting the strands in the same direction of the normal lay of wire. Do not over twist. Some scraping/longitudinal scratches are permissible provided the base metal is not exposed when viewed without magnification.
+        \n(3) If only untwisting/bird caging occurs due to human error, correct and reshape conductor strands by twisting the strands in the same direction on the normal lay of wire. The conductor is recommended only to be twisted by hand. If pliers are required due to the size of the strands, caution shall be taken to prevent damage to the conductor. The conductor shall not be over twisted.</string>
+    <string name="wire_stripping_3rd_page">(4) The wire insulation shall not be punctured, crushed/cut by the tool. The insulation deformation shall not exceed 20% of the insulation thickness. The insulation shall not have gouges, ragged edges, be loosed nor frayed. The end of the insulation shall be cut as squarely and cleanly as required to meet any soldering/crimping requirements."
+        \n(5) When the insulation stripped conditions are unacceptable, replace the blade and attempt a clean strip as close to the end of the insulation as possible. If problem persists, cut off stripped portion and start procedure again, wire length permitting. When wire length does not permit, start again with a new length of wire.</string>
+    <string name="wire_stripping_4th_page"><b>(1) Cutting Copper Wire</b>
+        \n<b>Light gage/copper alloy</b> - Should be cut with a shear type cutter to ensure the cut is clean, square and not deformed. Wire sizes 8 or more should be cut with cable shears.
+        \n<b>Heavy gage</b> - May be cut with a fine tooth hacksaw. A fine tooth hacksaw blade consists of 20 teeth or more per inch. A bench vice may be used to protect the wire and to avoid personal injury."
+        "\n<b>(2) Cutting Coaxial Cable</b>
+        \nWhen cutting coaxial/tri-axial cable, care must be exercised not to damage the dielectric as severe system degradation will occur. A diagonal type cutter shall not be used a scrimping will occur before the cutting action and is not repairable. A fine tooth hacksaw maybe used to cut the cable, but the use of a vice is not recommend, as pressure applied will damage the dielectric. A swivel-blade stripper/shear type cutter may be used as a clean cut can be afforded at a controlled rate."</string>
+    <string name="wire_crimping">- Physical compression(deformation) of a contact barrel around a conductor in order to make an electrical connection."
+        \n- A crimp contact/solderless contact (pins, sockets, terminal lugs, inline splices, end caps) is a contact whose conductor barrel is a hollow cylinder accepting the conductor. After a bare conductor is inserted, a crimping tool is applied to swage/form the contact metal firmly against the conductor, resulting an excellent mechanical and electrical contact joint.
+        \n- Accomplished on 4 types of contacts, namely:"
+        \n* Terminal Lugs (Insulated and un-insulated)
+        \n* Splices (insulated and un-insulated)
+        \n* Pin and Socket (for connector) contacts
+        \n* End Caps</string>
+    <string name="wire_harness_1st_page"><b>(1) Wire Harness Types:</b>
+        \n- Open harness is usually a round of group of wires and cables bundled together by ties, straps/tape but no protective jacket.
+        \n- Protected harness is similar to open harness but has a protective jacket &amp; wires have thinner insulation as the jacket provides mechanical protection."
+        \n<b>(2) Harness Repair:</b> When building new, or repairing an existing wire harness with wire which was processed using any wire processing equipment (ARTOS CS-336), a close inspection of wire size 26-20 AWG is required. Using a 10X magnifying device, inspect the wire insulation for serration, abrasions/cuts. Replace with new wire lengths and discontinue the use of the equipment until the condition is removed.
+        "\n<b>(3) Open Harness Repair:</b> An open harness should be repaired in accordance with the appropriate work package for the component that is damaged. For eg: If a wire/cable is chafed/broken, repair it in accordance with (TO 1-1A-14, WP 014 00)."</string>
+    <string name="wire_harness_2nd_page"><b>(4) Heat Shrinkable Sleeve Braid Repair</b>: Heat shrinking insulation sleeving is an electrical insulating sleeving that will shrink to a predetermined size upon the application of heat. Comes in varied sizes, colors, compositions, and uses. Refer to the applicable Tech Orders specification when selecting heat shrinkable insulating sleeving."
+        "\n<b>(5) Harness Shielded Cable Splicing:</b> Repair a shield cable in a harness in accordance with TO 1-1A-14, WP 014 00."
+        \n<b>(6) Adding Unshielded Wires:</b> When it becomes necessary to add wires to the harness, route added wires parallel and external to the existing harness. Secure added wires to the harness using lacing tape."</string>
+    <string name="wire_harness_3rd_page"><b>(7) Adding Wire to Existing Wire in Harness:</b>
+        \n<b>NOTE:</b> Only heavy wall SAE-AS22759/34, /35 /41-/46 wire size 22 and larger shall be routed outside the protected harness.
+        \n<b>- Adding Shielded Wires:</b> Route parallel and external to the harness, secure the added wires to the harness with lacing tape.
+        \n<b>- Replacing Wires:</b> Routed parallel and external to the harness. Secure replaced wires to the harness using tape.
+        \n- Wires with the following defects should be replaced:
+        \n* Wires damaged where splicing would be impractical.
+        \n* Electrically open wires.
+        \n* Shielded wires with the shield shorted to the conductor at some unknown point under the braid.</string>
+    <string name="wire_insulation_1st_page"><b>(1) Single Conductor Wire Repair</b>
+        \n- An electrical splice used for joining multiple wires in a strong mechanical and electrical food.
+        \n- End splices are used to join multiple wires travelling from the same direction. Both wires must enter the splice from the same side of the splice.
+        \n- Inline splices are generally used to join multiple wires travelling in a continuous direction where a damaged wire needs repair or length of a wire needs to extend. The wires enter the splice from both sides."
+        "\n<b>(2) Environmental Resistant Splices</b>
+        \n- The environmental resistant splice conforming to AS 81824 or AS MIL-S-81824 shall be used to splice single conductor wires within a multi-conductor cable, and single conductor wires in ribbon cable size 12 to 26 AWG (&lt;302°F(150°C environment).</string>
+    <string name="wire_insulation_2nd_page"><b>(3) Splices For Aluminium - Wires: </b>
+        \n- Aluminium wire shall be repaired using permanent crimp splices MS25439 only. However, as aluminium wire diameters have been changing over time, such splicing should be performed as a last resort."
+        "\n<b>(4) Large Wire splices Repairs</b>
+        \n- Wires size 10 AWG and larger in diameter shall be replaced entirely instead of replacing with splices.
+        \n- Replace affected wire from designed point of origin to the end of the wire run by using the same connection method as original design and installation requirements.</string>
+    <string name="wire_insulation_3rd_page"><b>(5) Splices Restrictions</b>
+        \n- Splices in bundles shall be staggered and not increase the size of the bundle so as to adversely affect maintenance.
+        \n- Where multiple splices are in close proximity, their position should be staggered to avoid any increase in loom diameter. They should be positioned on the outside of a harness to allow subsequent identification and inspection.
+        \n- Splices shall not be used to repair wiring inside a fuel tank, or within 12 inches on the wires entering or exiting a fuel tank.
+        \n- Shall be no more than one splice in any one wire segment except as follows:
+        \n* When attaching to a spare lead or pigtail
+        \n* To splice multiple wires to single wires.
+        \n* To adjust wire size to be compatible with crimp barrel.
+        \n* When a repair action requires a jumper wire.
+        \n- Splices shall not be used within 12 inches of a termination device, except as follows:
+        \n* When attaching to the pigtail spare lead
+        \n*	Adding a wire or segment to a potted termination device
+        \n*	Splice multiple wires to a single wire and adjust the wires sizes so that they are compatible with the contact crimp barrel sizes.
+        \n*	Splices shall not be used on firing circuits or control circuits associated with ordnance or explosive systems.
+        \n- Wires and cables that have a specified fire resistance rating require special consideration and are not to be repaired without the approval of relevant authority.
+        \n- Splices shall not be installed under clamps (primary or secondary support)
+</string>
+    <string name="wire_insulation_4th_page"><b>(6) Types of Wire Damage and Repair:</b>
+        \n<b>(i) Wire Damaged at Single Point:</b> Normally repaired with a single splice. <b>NOTE:</b> If the metal conductor is not damaged and only insulation needs repair, the wraparound (side entry) heat shrink is a suitable repair."
+        "\n<b>(ii) Wire Damaged Along Its Length:</b> The damaged portion shall be removed and a jumper installed using 2 splices."
+        "\n<b>(iii) Wrap-around/Side-entry Heat shrink Wire or Cable Repair:</b> The wrap-around heat shrink repair is suitable for repairing wire and cable insulation or adding secondary protection to in-service-electrical systems without the need to remove or disassemble the associated electrical connector and end hardware. The wrap-around heat shrink and its adhesive can only be installed in locations where it will not be subjected to temperatures > 275°F (135°C) and extended exposure to jet fuels.</string>
+    <string name="wire_insulation_5th_page"><b>(iv) Multi-Conductor Wire Repair:</b> "Consists of 2 or more conductors contained within a common jacket but does not provide environmental protection for Environmentally Sealed Harness Repair. When more than 1 wire needs repair in the same location in a harness, the wires shall be repaired as follows:
+        "\n(a) If the damaged wire area is close to a termination point and re-termination is possible using a contact/terminal, a new wire section and contact or terminal should be installed to avoid using 2 splices."
+        "\n(b) For every one of the damaged wire, remove damaged portion, clean, strip and splice the joint using a suitable crimping tool. If possible, stagger the splices to avoid making cable too thick at that point."
+        "\n(c) Examine crimped connection for: Indent centered on splice barrel, Indent in line with barrel, Barrel not cracked, Wire cannot be pulled out of splice, Gap of 1/32 to 1/16-inch for wire gages 10 thru 26, or 1/16 to 1/8-inch for wire gages 6 &amp; 8 exists between crimp barrel and wire insulation."
+        "\n(d) After a satisfactory examination of the crimped joint, repair the harness jacket/insulation using heat shrink sleeve.</string>
+    <string name="general_soldering_1st_page">- Joining of metal parts with a metal alloy has a lower melting point than the parts being joined."
+        "\n- Solder is a fusible metal alloy used to join two or more metals using heat where its solderability that permits good bonding of a specified solder the presence of a specified flux at a specified temperature."
+        "\n- There are two types of solder: a) the hard solder (sliver alloy) with has a melting point of 371°C to 871°C, b) Soft solder (tin, lead and sliver) with a melting below 371°C which is more widely used in aircraft wire repair solder and termination."
+        "\n- A soft solder method using hand soldering technique commonly used in aircraft wiring and termination is solid wire solder or flux core solder.</string>
+    <string name="general_soldering_2nd_page">- Flux is used to prepare the surface, as proper soldering requires unrestricted intermetallic contract between the solder and the metal being joined. Any barrier between the two in the form of oxide, grease, or other contaminants will prevent proper union. Flux removes these films without attacking the surfaces to be joined."
+        "\n- The additional benefits include:
+        \n* Sealing. Flux seals the surface to be joined.
+        \n* Heating. As the surface is sealed heating time is decreased.
+        \n* Oxidation. Oxidation is halted.
+        \n* Solder Flow. The flux reduces surface tension and allows the solder to flow."
+        "\n- Flux type for soft solder. The flux uses are the rosin type. Acid or inorganic flux shall not be used as they are highly corrosive. The residual action of rosin flux will cause corrosion therefore the work area shall be cleaned with isopropyl alcohol when soldering is completed.</string>
+    <string name="general_soldering_3rd_page">- Preferred fluxes are liquids and cored solders. 2 types of rosin based fluxes are mentioned:
+        \n* <b>ROL0:</b> Rosin based with low activity and no halide content. Used on electronic applications, on printed circuit boards and on semiconductor devices.
+        \n* <b>ROM0:</b> Moderate activity and no halide content. Used on electronic applications where greater flux activity is desired, but greater care must be taken to properly clean all residues after soldering."
+        "\n- <b>Flux type for hard solder:</b> Flux used for brazing hard solder is not to be used with soft solder.</string>
+    <string name="general_soldering_4th_page"><b>(i) Preparation:</b>
+        \n1) Soldering iron tip must be tinned to provide a complete metallic surface through which the heat may flow readily from the iron to the metal being soldered.
+        \n2) Without tinning, the iron will oxidize, preventing heat flow.
+        \n3) Copper tip oxidize quickly and must be frequently cleaned and re-tinned.
+        \n4) Tips badly burned and pitted as a result of overheating should be replaced.
+        \n5) For soldering tips are coated with pure iron to help prevent oxidation, follow manufacturer’s instructions for cleaning such irons."
+        "\n<b>NOTE:</b> Do not file soldering iron tips coated with pure iron. Filing will ruin the protective coating. If the tip is pitted, replace it.
+        \n(a) With the iron unplugged, file each working surface of the up with a double-cut mill file until it is smooth. With a bring copper colour.
+        \n(b) Remove copper filings from dressed edges with a file card.
+        \n(c) Plug in the iron.
+        \n(d) Apply cored solder just as the dressed copper is turning to a pigeon-blue, bronze, oxide colour. This will allow the flux to wet and clean the tip before the solder melts to form and even bright coating.
+        \n(e) Wipe off excess solder with a damp sponge or cloth."
+        "\n<b>(ii) Maintenance:</b> During use and just before each application, pass the soldering iron tip (with a rotary motion) through the folds of a damp cleaning sponge. This will remove the surface dross and excess solder from the working surface.</string>
+    <string name="general_soldering_5th_page"><b>(i) Area Preparation:</b>
+        \n- Soldering should be done in an area that is reasonably clean and free from excessive dust. Windy area should be avoided so that the soldering iron will not cool."
+        "\n<b>(ii) Decontamination:</b>
+        \n- Parts contaminated with dirt, oil, grime, grease, etc. cannot be successfully soldered. Ensure all parts are bright-clean before soldering. Clean the parts with a cloth or brush dipped in isopropyl alcohol, or other approved solvent. Badly cored parts may be cleaned carefully by mechanical means, such as fine abrasive paper, a wire brush, or by careful scraping with a knife blade."
+        "\n<b>(iii) Wire Stripping:</b>
+        \n- Insulated conductors should be stripped a distance longer than required for the solder connection for easier tinning of the conductor. The excess conductor will be trimmed off prior to soldering. The outer circumference of the end of the insulation shall have a smooth edge. The inner circumference shall have no insulation protrusions around the wire’s surface. The insulation shall not show evidence of nicks or cuts. Refer to TO1-1A-14 WP 009 00 or 7a of this application.</string>
+    <string name="general_soldering_6th_page"><b>(iv) Pre-tinning:</b>
+        \n- Before wires are soldered to connectors, the ends exposed by stripping are tinned to hold the strands solidly together. The tinning operation is considered satisfactory when the ends and sides of the wire strands are fused together with a coat of solder. Wires are usually tinned by dipping into flux and then into a solder bath.
+        \n- Unacceptable tinning includes leaving stray conductor strands, having too little or excessive solder, or damaging the insulation by overheating. In the field, wires can be tinned with a soldering iron and rosin core solder."
+        "\n<b>(v) Wires To Be Crimped:</b>
+        \n- Do not tin wires which are to be crimped to Class K (fireproof) connectors, wires which are to be attached to solder-less terminals or splices, or wires which are to be crimped to removable crimp-style connector contacts."
+        "\n<b>(vi) Tinning:</b>
+        \n- Can be done by a number of ways such as DIP tinning, tinning with a soldering iron, resistance tinning, torch tinning, etc. Each method depends on the application required.</string>
+    <string name="general_soldering_7th_page"><b>(vii) Soldering Irons:</b>
+        \n- Select a soldering iron with a thermal capacity high enough so that the heat transfer is fast and effective. Excessive hear capacity iron will burn or melt wire insulation, while an iron with too little heat capacity will make a cold joint, in which the solder does not alloy with the work. A soldering iron should also be suited to the production rate. Do not select a small pencil iron where a high steady heat flow is required. Pencil irons with a rating of 20 to 60 watts are recommended for soldering small parts. The soldering iron recommended for printed circuit is a lightweight 55 watt."
+        "\n- Select the tip best suited for the size and shape of the work being soldered. Soldering iron tips are available in sizes from 1/6 inch to 2 inches in diameter. For general use, a tip of 1/4 inch to 3/8 inch diameter is recommended. For printed circuit soldering, use a long shank tip of 1/16, 1/8, 3/32, or 3/16 inch diameter. Screwdriver, chisel, and pyramid shapes are recommended."</string>
+    <string name="general_soldering_8th_page"><b> (viii) Application of Heat and Solder:</b>
+        \n- Apply flux-core solder at the exact point between the metal and the soldering iron holding iron directly against the assembly. Melt the solder on the joint, not to the iron. Place the soldering iron firmly against the junction. If heavy rocking pressure is necessary, wither the iron does not have sufficient heat capacity for the job, or it has not been properly prepared, or both. Do not apply heat to the work any longer than necessary to melt the solder on all parts of the joints. Do not use any more solder than necessary. Do not pile up solder around the joint; this is wasteful and results in joints difficult to inspect. Care should be exercised with silver coated wire to prevent wicking during solder application."
+        "\n<b>(ix) Overheat Protection:</b>
+        \n- Do not allow the iron to overheat. Disconnect the iron when it is not in use (between operations), or use a heat dissipating stand which will keep the iron at a constant temperature. When the soldering iron is not in actual use during operations, keep it in a holder. This will protect the operator against burns and the iron against damage. Use a heat sink when soldering small components to prevent damage.</string>
+    <string name="general_soldering_9th_page"><b>(x) Cooling</b>
+        \n- When the solder joint has been made, hold the work firmly in place until the joint has set. Disturbing the finished work will result in a mechanically weak joint with high electrical resistance. Allow solder joints to cool naturally. Do not use liquids or air blasts."
+        "\n<b>(xi) Cleaning:</b>
+        \n- If the correct amount of solder is used and procedures followed carefully, there should be little or no excess flux remaining on the finished joint. Remove remaining flux by brushing the joint with a stiff brush (an acid brush with the bristles cut in half can be very useful for this purpose) dipped in isopropyl alcohol. Use it sparingly and void contact between alcohol and wire insulation. For cleaning printed circuit connections, use cotton swab-sticks for small areas and a lint-free clean cloth for large areas and board edges. Ultraviolet light may be used to detect the flux resin residue (Reside in fluorescent yellow to light brown residue under UV)."</string>
+    <string name="general_soldering_10th_page"><b>(xii) Soldering Quality:</b>
+        \n- When soldering quality is maintained, good electrical and mechanical joints will follow. The following factors will determine if solder joints or connections are acceptable or unacceptable:"
+        \n- <b>Solder Joint.</b> A good solder joint will have a bright silvery appearance, with smooth fillets and feathered (Not sharp), edges. The entire joint will be covered with a smooth even coat of solder, and the contour of the joint will be visible. Any of the following indicate a poor solder joint and are cause for rejection:"
+        \n* Dull grey, chalky, or granular appearance (evidence of a cold joint)
+        \n* Hair cracks or irregular surface (evidence of a disturbed joint)
+        \n*	Greyish, wrinkled appearance (evidence of excessive hear)
+        \n* Partially exposed joint (evidence of insufficient solder)
+        \n*	Scorched wire insulation or burned connector inserts
+        \n*	Globules, drips, or tails or solder."
+        "\n- <b>Insulation Damage.</b> When a good solder joint is accomplished, the insulation will be properly cut and shall not show any of the following, which will be cause for rejection:
+        \n* Charred, burned or blistered appearance (evidence of overheating)
+        \n* Frayed or uneven appearance
+        \n* Solder on insulation</string>
+    <string name="general_soldering_11th_page"><b>(xiii) Desoldering:</b>
+        \n- Solder should be removed from terminals and solder cups either by mechanical means or wicking."
+        "\n- <b>Mechanical Means:</b> As the soldering iron heats the solder, the mechanical vacuum removes the solder from the work. A solder sucker, which is a hand operated bulb with a tip, may also be used."
+        "\n- <b>Wicking:</b> Use a stranded or braided conductor and flux. Place the wire on the solder connection and the tip of the hot iron on the wire. The solder will wick to the wire. When the solder has wicked, remove the wire and the iron together.</string>
+    <string name="chafing_1st_page"><b>Chafing:</b>
+        \n- Repeated relative motion between wiring system components, or between wiring system component to structure/equipment which results in rubbing action that causes wear.
+        \n- Leads to harness shorting and arcing, damage to systems or loss of aircraft."
+        "\n <b>Fouling:</b>
+        \n- Contact between a wire or harness assembly and structure or equipment when there is no evidence of wear, but concerns of potential damage exists.
+        \n- In areas where physical separation cannot be maintained between  wire harnesses, structure, protective devices shall be added to prevent damage."
+        \n- Wiring and harnesses shall be routed to avoid chafing at all times</string>
+    <string name="chafing_2nd_page"><b>(1) Installation of Spiral Chafe Wrap</b>
+        \n- For single harness applications, spiral wrapping may be used to provide chafing protection.
+        \n- Installed butted or with a gap not to exceed material width."
+        "\n<b>(2) Installation of Teflon Chafe Protective Pads</b>
+        \n- For harness bundles over 3/4 inch, Teflon sheet may be used to provide chafing protection.
+        \n- Secure with lacing tape/tie string(A-A-52083) at approx. 1-inch intervals.
+        \n- Teflon sheet shall be wrapped around bundle with minimum of 50% overlap."
+        "\n<b>(3) Continuous/Expandable Chafe Protection Sleeving</b>
+        \n- Continuous tube-like, expendable sleeve
+        \n- Installation of this sleeve while harness in service may be accomplished if connector is not too large
+        \n- Select one of these 3 sleeve types with lacing tape/tie string to secure."</string>
+    <string name="chafing_3rd_page"><b>(4) Wrap-Around Chafe Protection Sleeving</b>
+        \n- Wrap around sleeving may provide protection for wire and cable bundles against:
+        \n* Mechanical/abrasion
+        \n* High temperature, fluid, vapours and fire (depending on type)
+        \n* Self-wrapping allows easy installation and re-entry, reducing risk of damage to connectors and contacts without depinning connector
+        \n- 3 types of wrap around sleeving for various applications and 1 for shielded harness protection for EMI applications</string>
+    <string name="chafing_4th_page">- Wiring minimum 1/2 inch clearance from structure or surfaces/equipment but if cannot maintain, minimum  3/8 inch clearance acceptable where anti-chafing material is used.
+        \n- Minimum of 2 inch clearance between wiring and fluid carrying lines, tubes and equipment shall be maintained. If less, use clamp to maintain minimum  1/2 inch clearance.
+        \n- Proper wiring clearance from linkages, throttle controls, boxes, covers, structures, cables and hardware to prevent fouling &amp; chafing.
+        \n- Proper clearance of terminal lugs between other lugs, adjacent components and nearby structures. Loose/frayed wire strands should not bridge clearance gaps between contacts/structure.
+        \n- Proper support independent of and with maximum practicable separation from all fluid-carrying lines, tubes and equipment.
+        \n- Lack of proper clearance is a discrepancy.</string>
+    <string name="chafing_5th_page">
+        <b>(5) Wire Chafing Inspection</b>
+        \n- Examine for wire chafing where wiring is routed near structural members, crosses over/ under other wiring, passes through lightening holes.
+        \n- Examine wire in areas where it moves/flexes when door(s) are opened/closed, passes over or near hinged areas, turns or bends near components and at connector backshells flexed during the removal and installation of components."
+        "\n<b>(6) Examination of Cushion Clamps for chafing</b>
+        \n- Cushion clamps must have “W” to be wedge type. Examine area located at base or wedge of clamp cushion material to ensure wires are not pinched in metal band of clamp.
+        \n- Examine clamp size for being too small or too large for wire bundle.
+        \n- Examine for loose, broken or deteriorated cushion clamps, lacing tape ties, strap ties, loose or damaged bundle clamp standoffs and distorted bundle clamp support brackets.</string>
+    <string name="chafing_6th_page">
+        <b>(7) Clamp, Hardware &amp; Bracket Security</b>
+        \n- Follow all wire/harness runs and lightly shake at all clamp or support devices.
+        \n- Inspect clamps for proper torque by attempting to rotate clamp around bolt/screw axis. If screw/bolt is not tight, improper length may be installed, and bolt may be bottomed out.
+        \n- Install proper length bolt to ensure clamp does not rotate.  Check for proper thread protrusion on backside, 3–5 threads optimum.
+        \n- Flush, or less than 1 1/2 threads is unacceptable.
+        \n- Ensure airframe clips and brackets do not have loose rivets or fasteners.
+    </string>
+    <string name="clamping_1st_page"><b>Wiring Clamps (AS21919):</b>
+        \n- Wires, cables, bundles, and harnesses are clamped to the aircraft structure by cushioned metal clamps for primary support and plastic clamps for secondary support."
+        "\n <b>AS23190/4 Locking Clamp:</b>
+        \n- Locking feature provides easier installation, a substitute for the general purpose of AS21919 Series Loop Clamp.
+        \n- Although can be used as a direct replacement, primarily intended for inaccessible areas.
+        \n- May be employed in all locations where the AS21919 clamp is used provided that correct cushion and clamp material type meets application requirements.</string>
+    <string name="clamping_2nd_page"><b>(1) Clamp Installation</b>
+        \n<b>RF Coaxial Cable Restriction</b>
+        \n - Support of the individual coaxial cables and of bundles containing coaxial cables shall be subject to the following additional clamping restrictions:
+        \n* Both primary and secondary clamps shall be installed so as not to exert greater pressure on the cable than the minimum required to prevent slipping.
+        \n* The clamp should not deform the cables such that the electrical characteristics of the cables are degraded.
+        \n* Pressure shall be evenly distributed around bundles containing coaxial cables or around the coaxial cables, if individually supported."</string>
+    <string name="clamping_3rd_page"><b>Installing Clamps</b>:
+     \n- Install cable clamps with mounting screw above wire bundle, hanging down at an angle less than ±45° from vertical axis of the clamp.
+        \n- Desirable that back of cable clamp rest against a structural member.
+        \n- Be careful not to pinch wires in cable clamp.
+        \n- If wire bundles is smaller than nearest clamp size or if clamp of proper size is unavailable, wrap wire bundle with necessary number of turns of non-adhesive insulating tape so that the bundle is held securely in the clamp.
+        \n- For AS25281 Nylon clamps, secure wires with lacing tape/tie string to prevent pinching of wires.
+        \n- The string shall be installed on both sides of nylon clamp within distance equivalent to clamp width."</string>
+    <string name="blanking">Protection and stowage of connectors and wave guides is dependent upon the operational environment they are in:
+        \n- <b>Operational</b>
+        \n- <b>Non-operational</b>
+        \n- <b>Long term</b>
+        \n- <b>Short term</b>
+        \n- <b>Operational - Long Term</b>
+        \n- <b>Operational - Short Term</b></string>
+</resources>
